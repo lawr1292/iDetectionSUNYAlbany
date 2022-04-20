@@ -3,8 +3,8 @@
 Here is the mobile app that is using our image classification model
 The program was written in C# using Xamarin.Forms
 Make sure to download the following nuget packages:
-Xamarin.AndroidX.AppCompat
-Xamarin.AndroidX.Camera.Camera2
+\nXamarin.AndroidX.AppCompat
+\nXamarin.AndroidX.Camera.Camera2
 Xamarin.AndroidX.Camera.Core
 Xamarin.AndroidX.Camera.Lifecycle
 Xamarin.AndroidX.Camera.View
